@@ -12,3 +12,8 @@ I am learning programming and preparing for Google Summer of Code 2027.
 - Learn open-source contribution workflows
 - Explore GSoC organizations
 - Make meaningful contributions
+
+## Learning Progress
+- [x] GitHub Desktop setup
+- [x] First commit
+- [x] First push
